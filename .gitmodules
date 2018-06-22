@@ -1,0 +1,3 @@
+[submodule "examples/golang_service"]
+	path = examples/golang_service
+	url = ../golang_service
